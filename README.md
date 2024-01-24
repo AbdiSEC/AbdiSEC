@@ -3,6 +3,10 @@
 ## About Me
 🌱 Learning about Reverse Engineering, Cyber Security and Programming.
 
+💻 Daily Driver Linux (Arch) - Programming (NeoVIM)
+
+💻 Reverse Engineering, Kernel Development & Software Automation (Windows)
+
 🤔 Exploring C++ and Rust to further my programming experience.
 
 📫 How to reach me: Aiden@abdiSEC.com
@@ -16,8 +20,7 @@
 - 📧 Email: Aiden@abdiSEC.com
 - 🔗 Personal Website: [abdiSEC.com](http://abdisec.com)
 
-## Hobbies
-- Reverse Engineering, Programming, & Software Automation
+
 
 <!---
 AbdiSEC/AbdiSEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
