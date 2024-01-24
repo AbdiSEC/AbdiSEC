@@ -2,6 +2,7 @@
 
 ## About Me
 🌱 Learning about Reverse Engineering.
+
 🤔 Exploring C++ and Rust to further my programming experience.
 
 📫 How to reach me: aiden@abdisec.com
