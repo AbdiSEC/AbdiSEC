@@ -5,7 +5,7 @@
 
 🤔 Exploring C++ and Rust to further my programming experience.
 
-📫 How to reach me: aiden@abdisec.com
+📫 How to reach me: Aiden@abdiSEC.com
 
 ## Skills and Technologies
 - 💻 Programming Languages: Beginner to Intermediate in Python, C, and C++.
@@ -13,8 +13,8 @@
 - 🖥️ Web Development: Familiar with HTML, CSS, JavaScript
 
 ## Contact Me
-- 📧 Email: aiden@abdisec.com
-- 🔗 Personal Website: [abdisec.com](http://abdisec.com)
+- 📧 Email: Aiden@abdiSEC.com
+- 🔗 Personal Website: [abdiSEC.com](http://abdisec.com)
 
 ## Hobbies
 - Reverse Engineering, Programming, & Software Automation
