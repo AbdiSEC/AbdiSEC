@@ -1,7 +1,7 @@
 # Hello, I'm Aiden! 👋
 
 ## About Me
-🌱 Learning about Reverse Engineering, Cyber Security and Programming.
+🌱 Enjoying Reverse Engineering, Cyber Security and Programming.
 
 💻 Daily Driver Linux (Arch) - Programming (NeoVIM)
 
